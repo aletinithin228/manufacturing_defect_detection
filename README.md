@@ -79,15 +79,15 @@ This project involves analyzing a dataset with 230,000 samples and 30 predictors
   - Sensitivity: 91.30%
   - Specificity: 99.98%
 ## Insights
-Resampling Success: Techniques like SMOTE and random oversampling significantly improved minority class detection.
-Model Performance: While Logistic Regression and Decision Tree models performed well, SVM provided the most balanced results between sensitivity and specificity.
-Feature Importance: Predictor X30 was identified as a key feature influencing classification outcomes.
+- Resampling Success: Techniques like SMOTE and random oversampling significantly improved minority class detection.
+- Model Performance: While Logistic Regression and Decision Tree models performed well, SVM provided the most balanced results between sensitivity and specificity.
+- Feature Importance: Predictor X30 was identified as a key feature influencing classification outcomes.
 ## Future Work
-Optimize SVM kernels to further enhance sensitivity and specificity.
-Experiment with hybrid resampling techniques combining SMOTE and undersampling for a more balanced dataset.
-Explore ensemble models like Gradient Boosting and XGBoost for better handling of imbalanced data.
-Implement deep learning approaches to tackle complex feature relationships.
+- Optimize SVM kernels to further enhance sensitivity and specificity.
+- Experiment with hybrid resampling techniques combining SMOTE and undersampling for a more balanced dataset.
+- Explore ensemble models like Gradient Boosting and XGBoost for better handling of imbalanced data.
+- Implement deep learning approaches to tackle complex feature relationships.
 ## Contributors
-Dedeepya Vesangi: Data preprocessing and resampling.
-Harshitha Manaswini Vadavalli: Performance analysis and reporting.
-Nithin Aleti: Model implementation and hyperparameter tuning.
+- Dedeepya Vesangi: Data preprocessing and resampling.
+- Harshitha Manaswini Vadavalli: Performance analysis and reporting.
+- Nithin Aleti: Model implementation and hyperparameter tuning.
