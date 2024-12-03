@@ -49,11 +49,12 @@ This project involves analyzing a dataset with 230,000 samples and 30 predictors
 - **Data Issues**:
   - Significant class imbalance: ~229,541 samples for the majority class (`0`) vs. 458 for the minority class (`1`).
   - High feature variability requiring standardization.
+- **Link to the Dataset**: https://drive.google.com/drive/folders/1m7t8FYqiy5aiJjYbQixcz-2BvuRepupH?usp=drive_link
 
 ## Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/manufacturing-defect-detection.git
+   git clone https://github.com/aletinithin228/manufacturing_defect_detection.git
 2. Ensure all dependencies listed in requirements.txt are installed.
 3. Use Jupyter notebooks or equivalent tools to:
 4. Preprocess the dataset.
