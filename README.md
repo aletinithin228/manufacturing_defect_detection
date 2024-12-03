@@ -62,19 +62,19 @@ This project involves analyzing a dataset with 230,000 samples and 30 predictors
 6. Visualize performance metrics.
 
 ## Results
-**Logistic Regression**:
+- **Logistic Regression**:
 - Accuracy: 99%
 - Sensitivity: 85.06%
 - Specificity: 99.99%
-**Decision Tree**:
+- **Decision Tree**:
 - Accuracy: 96.78%
 - Sensitivity: 91.95%
 - Specificity: 99.99%
-**Random Forest (Oversampled)**:
+- **Random Forest (Oversampled)**:
 - Accuracy: 99.99%
 - Sensitivity: 87.35%
 - Specificity: 99.99%
-**Support Vector Machine (SVM)**:
+- **Support Vector Machine (SVM)**:
 - Accuracy: 98.55%
 - Sensitivity: 91.30%
 - Specificity: 99.98%
