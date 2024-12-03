@@ -62,22 +62,22 @@ This project involves analyzing a dataset with 230,000 samples and 30 predictors
 6. Visualize performance metrics.
 
 ## Results
-Logistic Regression:
-Accuracy: 99%
-Sensitivity: 85.06%
-Specificity: 99.99%
-Decision Tree:
-Accuracy: 96.78%
-Sensitivity: 91.95%
-Specificity: 99.99%
-Random Forest (Oversampled):
-Accuracy: 99.99%
-Sensitivity: 87.35%
-Specificity: 99.99%
-Support Vector Machine (SVM):
-Accuracy: 98.55%
-Sensitivity: 91.30%
-Specificity: 99.98%
+**Logistic Regression**:
+- Accuracy: 99%
+- Sensitivity: 85.06%
+- Specificity: 99.99%
+**Decision Tree**:
+- Accuracy: 96.78%
+- Sensitivity: 91.95%
+- Specificity: 99.99%
+**Random Forest (Oversampled)**:
+- Accuracy: 99.99%
+- Sensitivity: 87.35%
+- Specificity: 99.99%
+**Support Vector Machine (SVM)**:
+- Accuracy: 98.55%
+- Sensitivity: 91.30%
+- Specificity: 99.98%
 ## Insights
 Resampling Success: Techniques like SMOTE and random oversampling significantly improved minority class detection.
 Model Performance: While Logistic Regression and Decision Tree models performed well, SVM provided the most balanced results between sensitivity and specificity.
